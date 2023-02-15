@@ -3,8 +3,6 @@
 ## About me
 
 <!-- TO DO: add more details about me later -->
-<!--
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Udacity Data Analyst Nanodegree
 - 🌱 I’m currently learning Data Analysis with Udacity
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...encube100@gmail.com
 - 😄 Pronouns: ...Me/Him
 - ⚡ Fun fact: ...Data Data Everywhere
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
