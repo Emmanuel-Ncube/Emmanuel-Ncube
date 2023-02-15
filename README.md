@@ -4,18 +4,16 @@
 
 <!-- TO DO: add more details about me later -->
 <!--
-**Emmanuel-Ncube/Emmanuel-Ncube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Udacity Data Analyst Nanodegree
+- 🌱 I’m currently learning Data Analysis with Udacity
+- 👯 I’m looking to collaborate on Data Analysis projects.
+- 🤔 I’m looking for help with how to upskill into Data Science
+- 💬 Ask me about ...anything
+- 📫 How to reach me: ...encube100@gmail.com
+- 😄 Pronouns: ...Me/Him
+- ⚡ Fun fact: ...Data Data Everywhere
 -->
 
 <picture>
