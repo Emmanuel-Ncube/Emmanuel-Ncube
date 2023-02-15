@@ -1,44 +1,48 @@
-### Hi there 👋
+## Hello 👋 
 
-## About me
+<img align='right' src="https://github.com/Emmanuel-Ncube/Emmanuel-Ncube/blob/main/coding.gif" width="295">
 
-<!-- TO DO: add more details about me later -->
+<div>
+<img src="https://img.shields.io/badge/Emmanuel-Ncube%20-important">
+<img src="https://img.shields.io/badge/Google & Udacity Certified Data%20Analyst-red">
+</div>
+</br>
 
-- 🔭 I’m currently working on ... Udacity Data Analyst Nanodegree
-- 🌱 I’m currently learning Data Analysis with Udacity
-- 👯 I’m looking to collaborate on Data Analysis projects.
-- 🤔 I’m looking for help with how to upskill into Data Science
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ...encube100@gmail.com
-- 😄 Pronouns: ...Me/Him
-- ⚡ Fun fact: ...Data Data Everywhere
+- 🎓 I've  completed my **Master of Science in Accounting & Finance** from the **National University of Science & Technology, Bulawayo**.
+- 👨‍💼 I'm currently working at **Ministry of Education** as a **Senior Teacher**.
+- 🌱 I'm currently learning from [Udacity](https://www.coursera.org/) ,[Coursera](https://www.youtube.com/), [Wikipedia](https://en.wikipedia.org/), [Kaggle](https://www.kaggle.com/) and [Youtube](https://www.analyticsvidhya.com/).
+- ⚡️ Fast learner.
+- 💻 I'm open for collaborations in **Data/Business/Finance** and **Analytics** domains.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="100" height="100">
-</picture>
+```python
+def Emmanuel():
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'HTML & CSS': 'Intermidiate'}
+  tools = ['numpy', 'pandas', '', 'matplotlib', 'seaborn', 'excel', 'tableau', 'google sheet']
+  cloud_architecture = ['google cloud plartform']
+  return ∞
+```
 
-Hi, I'm Emmanuel. You might recognize me as Data Analyst mascot.
 
-<details open>
-  
-<summary>My Top Skills</summary>
-  
-| Rank | Skills |
-|-----:|---------------|
-|     1|Data Wrangling, Data Analysis, Data Visualization|
-|     2|Python Programming|
-|     3|SQL|
-|     4|Excel |
-|     5|Tableau |
-|     6|Google CLoud Platform |
-|     7|Git and GitHub
-|     8| Accounting & Finance |
+## 📈 My GitHub Stats
 
-</details>
+<details>
+  <summary>Stats</summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Ncube&show_icons=true&theme=algolia&count_private=true" alt="Emmanuel-Ncube" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Ncube&theme=algolia" alt="Emmanuel" />
+  </details>
 
----
-> You can do it.
 
-—  Mosh Hamedani
+
+
+<h3> Where to find me: </h3>
+<div>
+<a href="https://github.com/Emmanuel-Ncube">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/encube/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.kaggle.com/">
+<img  src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+</a>
+</div>
