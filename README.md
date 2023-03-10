@@ -9,7 +9,7 @@
 </br>
 
 - 🎓 I've  completed my **Master of Science in Accounting & Finance** from the **National University of Science & Technology, Bulawayo**.
-- 👨‍💼 I'm currently working at **accenture** as an **Intern**.
+- 👨‍💼 I'm currently working at **Founders High School** as an **Senior Teacher**.
 - 🌱 I'm currently learning from [accenture](https://www.accenture.com), [Udacity](https://www.udacity.com/) ,[Datacamp](https://www.datacamp.com/),  and [Kaggle](https://www.kaggle.com/).
 - ⚡️ Fast learner.
 - 💻 I'm open for collaborations in **Data/Business/Finance** and **Analytics** domains.
